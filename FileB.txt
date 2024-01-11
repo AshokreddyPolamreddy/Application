@@ -1,1 +1,2 @@
 This is FileB content
+this file contains FileB information
